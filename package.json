@@ -1,0 +1,20 @@
+{
+  "name": "citas_medicas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "chalk": "^5.0.0",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
+  }
+}
